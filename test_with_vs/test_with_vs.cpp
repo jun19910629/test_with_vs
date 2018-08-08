@@ -8,6 +8,7 @@ using namespace std;
 int main()
 {
 	cout << "shit shit smell beautiful!" << endl;
+	cout << "shit 2 !!!" << endl;
     return 0;
 }
 
