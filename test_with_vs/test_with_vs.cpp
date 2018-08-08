@@ -1,4 +1,4 @@
-// test_with_vs.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
+// test_with_vs.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 
 #include "stdafx.h"
@@ -9,6 +9,7 @@ int main()
 {
 	cout << "shit shit smell beautiful!" << endl;
 	cout << "shit 2 !!!" << endl;
+        cout << "doshi" << endl;	
     return 0;
 }
 
