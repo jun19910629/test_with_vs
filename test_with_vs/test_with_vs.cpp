@@ -10,6 +10,7 @@ int main()
 	cout << "shit shit smell beautiful!" << endl;
 	cout << "shit 2 !!!" << endl;
         cout << "doshi" << endl;	
+		cout << "laozi shilai ceshide " << endl;
 
 
     return 0;
